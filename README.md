@@ -1,4 +1,4 @@
-# NodeJS-Express-Guide
+# NodeJS & ExpressJS - CRUD Application
 
 Welcome to the Node.js and Express.js Guide, a comprehensive resource for understanding and implementing backend development with Node.js and Express.js. This guide is designed for both beginners and intermediate developers who want to learn how to build scalable, robust, and efficient server-side applications.
 
@@ -19,4 +19,6 @@ Welcome to the Node.js and Express.js Guide, a comprehensive resource for unders
 - Implement secure access with JWT, sessions, and cookies.
 - Dockerize applications following best practices.
 
-For detailed explanations and examples, check out the full guide here: [Node.js and Express.js Guide Document](https://docs.google.com/document/d/1ovHkDCM4xmYKopyXuFr3SwLeEdVpOrbMYRX7bEK6IxE/edit?usp=sharing)
+
+
+Full guide here: [JavaScript & NodeJS](https://docs.google.com/document/d/1ovHkDCM4xmYKopyXuFr3SwLeEdVpOrbMYRX7bEK6IxE/edit?usp=sharing)
